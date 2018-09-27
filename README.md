@@ -2,10 +2,10 @@
 'vsdflow' is also the best utility ever written for learning EDA based TCL scripting...Very hard to find a tool, with its detailed explanation in form of videos. 'vsdflow' is explained (in detail) in below 2 TCL scripting courses, so you might want to have a look:
 
 TCL scripting part 1:
-https://www.udemy.com/vsd-tcl-programming-from-novice-to-expert/?couponCode=VSDFLOW_KEYS
+https://www.udemy.com/vsd-tcl-programming-from-novice-to-expert/
 
 TCL scripting part 2:
-https://www.udemy.com/vsd-tcl-programming-from-novice-to-expert-part-2/?couponCode=VSDFLOW_KEYS
+https://www.udemy.com/vsd-tcl-programming-from-novice-to-expert-part-2/
 
 This course has gone to a level, where I have heard managers in VLSI industries asking their team to learn TCL only through this course and 'vsdflow'.
 
@@ -16,13 +16,13 @@ The synthesized netlist is given to PNR tool (Qflow) and finally Sign-off is don
 Some background about VLSI backend is needed for to understand 'vsdflow' operations, so here are 3 important courses: (check with your interviewer and they might recommend these courses):
 
 Physical design flow:
-https://www.udemy.com/vlsi-academy-physical-design-flow/?couponCode=VSDFLOW_KEYS
+https://www.udemy.com/vlsi-academy-physical-design-flow/
 
 Static timing analysis - Part 1:
-https://www.udemy.com/vlsi-academy-sta-checks/?couponCode=VSDFLOW_KEYS
+https://www.udemy.com/vlsi-academy-sta-checks/
 
 Static timing analysis - Part 2:
-https://www.udemy.com/vlsi-academy-sta-checks-2/?couponCode=VSDFLOW_KEYS
+https://www.udemy.com/vlsi-academy-sta-checks-2/
 
 There you go...Write your first TCL script, learn it from basics to advanced to expert level, apply it from EDA perspective, and you are good to go for your job or interviews....
 
